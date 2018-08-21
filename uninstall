@@ -1,0 +1,3 @@
+service nginx stop
+yum erase nginx -y
+systemclt daemon-reload
